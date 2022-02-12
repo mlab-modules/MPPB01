@@ -11,3 +11,5 @@
 | Service interface | Pin-header |  |
 | Operating and storage temperature | -20 - +40°C |  |
 | Operational input voltage | 4.9 - 5.2V |  |
+| I²C interface levels | 5V |  |
+| UART interface levels | 3.3V |  |
