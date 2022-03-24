@@ -5,27 +5,26 @@
   (paper "A4")
 
   (title_block
-    (title "MPPB01A")
-    (date "09 May 2014")
-    (rev "REV 0.1")
-    (company "ORBISYS www.orbisys.sk")
+    (title "MPPB01B")
+    (date "2022-03-24")
+    (company "MLAB.cz")
     (comment 1 "VERSION 1")
     (comment 2 "Paralella reduction board")
-    (comment 3 "Maksim Rezenov, Jakub kakona")
+    (comment 3 "Maksim Rezenov, Jakub Kakona")
   )
 
   (lib_symbols
-    (symbol "adapteva_kicad:CONN_SAMTEC_BTH_60" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
-      (property "Reference" "P" (id 0) (at 0 43.18 0)
+    (symbol "MLAB_CONNECTORS:CONN_SAMTEC_BTH_030" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
+      (property "Reference" "P3" (id 0) (at 0 43.18 0)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Value" "adapteva_kicad_CONN_SAMTEC_BTH_60" (id 1) (at -2.54 0 90)
+      (property "Value" "CONN_SAMTEC_BTH_030" (id 1) (at -2.54 0 90)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "CONN_SAMTEC_BTH_60" (id 2) (at 2.54 0 90)
+      (property "Footprint" "Mlab_CON:SAMTEC-BTH-030-01-X-D-A" (id 2) (at 2.54 0 90)
         (effects (font (size 1.524 1.524)) hide)
       )
-      (property "Datasheet" "" (id 3) (at 2.54 22.86 0)
+      (property "Datasheet" "https://cz.mouser.com/datasheet/2/527/bth-2498158.pdf" (id 3) (at 2.54 22.86 0)
         (effects (font (size 1.524 1.524)) hide)
       )
       (property "MFRPN" "BTH-030-01-F-D-A" (id 4) (at 0 0 90)
@@ -37,7 +36,7 @@
       (property "ki_fp_filters" "CONN_SAMTEC_BTH_60" (id 6) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "CONN_SAMTEC_BTH_60_0_1"
+      (symbol "CONN_SAMTEC_BTH_030_0_1"
         (polyline
           (pts
             (xy -3.81 -36.83)
@@ -532,7 +531,7 @@
           (fill (type none))
         )
       )
-      (symbol "CONN_SAMTEC_BTH_60_1_1"
+      (symbol "CONN_SAMTEC_BTH_030_1_1"
         (pin passive line (at 12.7 36.83 180) (length 5.08)
           (name "P1" (effects (font (size 0.762 0.762))))
           (number "1" (effects (font (size 1.524 1.524))))
@@ -3328,7 +3327,7 @@
     (pin "1" (uuid c08db16e-bbb7-4f02-9681-9df69e1be7d2))
   )
 
-  (symbol (lib_id "adapteva_kicad:CONN_SAMTEC_BTH_60") (at 186.055 103.505 0) (unit 1)
+  (symbol (lib_id "MLAB_CONNECTORS:CONN_SAMTEC_BTH_030") (at 186.055 103.505 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000538932df)
     (property "Reference" "P1" (id 0) (at 186.055 60.325 0)
@@ -3337,10 +3336,10 @@
     (property "Value" "BTH-030-01-F-D-A" (id 1) (at 183.515 103.505 90)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "CONN_SAMTEC_BTH_60" (id 2) (at 188.595 103.505 90)
+    (property "Footprint" "Mlab_CON:SAMTEC-BTH-030-01-X-D-A" (id 2) (at 188.595 103.505 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 188.595 80.645 0)
+    (property "Datasheet" "https://cz.mouser.com/datasheet/2/527/bth-2498158.pdf" (id 3) (at 188.595 80.645 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "MFRPN" "BTH-030-01-F-D-A" (id 4) (at 186.055 103.505 90)

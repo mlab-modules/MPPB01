@@ -5,13 +5,12 @@
   (paper "B")
 
   (title_block
-    (title "MPPB01A")
-    (date "09 May 2014")
-    (rev "REV 0.1")
-    (company "ORBISYS www.orbisys.sk")
+    (title "MPPB01B")
+    (date "2022-03-24")
+    (company "MLAB.cz")
     (comment 1 "VERSION 1")
     (comment 2 "Paralella reduction board")
-    (comment 3 "Maksim Rezenov, Jakub kakona")
+    (comment 3 "Maksim Rezenov, Jakub Kakona")
   )
 
   (lib_symbols
