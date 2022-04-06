@@ -1,5 +1,7 @@
 # MPPB01A -  Mechanical Parallella peripheral board
 
+![MPPB01A with Parallella mounted ](doc/src/img/MPPB01A_Parallella_top.jpg)
+
 
 ![MPPB01A Mechanical Parallella peripheral board ](doc/src/img/MPPB01A_top.png)
 
