@@ -13,7 +13,7 @@
         (company "Adapteva, Inc., 1666 Massachusetts Ave., Lexington, MA, 02420") 
         (rev *) 
         (date "09 May 2014") 
-        (source MPPB01A.sch) 
+        (source MPPB01B.sch) 
         (comment 
           (number 1) 
           (value "Top Level")) 
