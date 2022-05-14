@@ -4481,8 +4481,8 @@
     (path "/00000000-0000-0000-0000-00005a33a08f"
       (reference "P6") (unit 2) (value "SAS_mini_1888174-6") (footprint "Mlab_CON:SAS-mini_TEConnectivity_1888174_Vertical")
     )
-    (path "/00000000-0000-0000-0000-0000538682e8/f4cd744f-86c3-401e-9dc4-f3966535b983"
-      (reference "P7") (unit 1) (value "HEADER_2x16") (footprint "Mlab_Pin_Headers:Straight_2x16")
+    (path "/00000000-0000-0000-0000-0000538682e8/202a0193-376b-412a-9a65-c53ff34e298c"
+      (reference "P7") (unit 1) (value "HEADER_2x13") (footprint "Mlab_Pin_Headers:Straight_2x13")
     )
     (path "/00000000-0000-0000-0000-00005a2feb14"
       (reference "P9") (unit 1) (value "HEADER_2x03_PARALLEL") (footprint "Mlab_Pin_Headers:Straight_2x03")
