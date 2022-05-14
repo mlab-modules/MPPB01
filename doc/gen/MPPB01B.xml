@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/MPPB01B.kicad_sch</source>
-    <date>Fri May 13 20:55:47 2022</date>
+    <date>Fri May 13 22:34:34 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -707,7 +707,7 @@
     </net>
     <net code="6" name="/DSP_FLAG">
       <node ref="P3" pin="23" pinfunction="P23" pintype="passive"/>
-      <node ref="P7" pin="19" pintype="input"/>
+      <node ref="P7" pin="31" pintype="input"/>
     </net>
     <net code="7" name="/DSP_XID0">
       <node ref="P3" pin="13" pinfunction="P13" pintype="passive"/>
@@ -921,7 +921,7 @@
     </net>
     <net code="72" name="/JTAG_TCK">
       <node ref="P3" pin="39" pinfunction="P39" pintype="passive"/>
-      <node ref="P7" pin="31" pintype="input"/>
+      <node ref="P7" pin="19" pintype="input"/>
     </net>
     <net code="73" name="/JTAG_TDI">
       <node ref="P3" pin="38" pinfunction="P38" pintype="passive"/>
@@ -933,7 +933,7 @@
     </net>
     <net code="75" name="/JTAG_TMS">
       <node ref="P3" pin="37" pinfunction="P37" pintype="passive"/>
-      <node ref="P7" pin="29" pintype="input"/>
+      <node ref="P7" pin="23" pintype="input"/>
     </net>
     <net code="76" name="/NORTH/RXI_DATA_N0">
       <node ref="P2" pin="3" pinfunction="P3" pintype="passive"/>
@@ -1265,7 +1265,7 @@
     </net>
     <net code="192" name="/SPDIF">
       <node ref="P3" pin="27" pinfunction="P27" pintype="passive"/>
-      <node ref="P7" pin="23" pintype="input"/>
+      <node ref="P7" pin="27" pintype="input"/>
     </net>
     <net code="193" name="/SYS-5POV">
       <node ref="C1" pin="1" pintype="passive"/>
@@ -1279,7 +1279,7 @@
     </net>
     <net code="194" name="/TURBO_MODE">
       <node ref="P3" pin="25" pinfunction="P25" pintype="passive"/>
-      <node ref="P7" pin="21" pintype="input"/>
+      <node ref="P7" pin="29" pintype="input"/>
     </net>
     <net code="195" name="/UART_RX">
       <node ref="P3" pin="24" pinfunction="P24" pintype="passive"/>
@@ -1296,7 +1296,7 @@
     </net>
     <net code="198" name="/VADC_N">
       <node ref="P3" pin="33" pinfunction="P33" pintype="passive"/>
-      <node ref="P7" pin="27" pintype="input"/>
+      <node ref="P7" pin="21" pintype="input"/>
     </net>
     <net code="199" name="/VADC_P">
       <node ref="P3" pin="34" pinfunction="P34" pintype="passive"/>
