@@ -4418,6 +4418,9 @@
     (path "/00000000-0000-0000-0000-0000538682e8/e24a3eca-9661-4fb6-b697-27bfa96ca867"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-0000538682e8/b32ea29c-f312-40cb-be52-3cfe2fd4fcd7"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005a3fd4bf"
       (reference "C1") (unit 1) (value "100nF/16V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
