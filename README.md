@@ -1,6 +1,6 @@
 # MPPB01A -  Mechanical Parallella peripheral board
 
-
+![MPPB01B](doc/gen/img/MPPB01B-bottom.png)
 ![MPPB01A Mechanical Parallella peripheral board ](doc/src/img/MPPB01A_top.png)
 
 ## Parameters
