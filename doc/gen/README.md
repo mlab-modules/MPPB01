@@ -34,7 +34,7 @@ Stackup:
 
 # Important sizes
 
-Clearance: 0.2 mm (8 mils)
+Clearance: 0.18 mm (7 mils)
 
 Track width: 0.2 mm (8 mils)
 
@@ -55,7 +55,7 @@ Outer Annular Ring: 0.35 mm (14 mils)
 
 - By design rules: 0.35 mm (14 mils)
 
-Eurocircuits class: 4C
+Eurocircuits class: 5C
 
 
 # General stats
@@ -71,12 +71,12 @@ Defined tracks:
 
 Used tracks:
 
-- 0.2 mm (8 mils) (22) defined: no
-- 0.25 mm (10 mils) (238) defined: yes
+- 0.2 mm (8 mils) (24) defined: no
+- 0.25 mm (10 mils) (236) defined: yes
 - 0.28 mm (11 mils) (5616) defined: no
 - 0.3 mm (12 mils) (109) defined: no
 - 0.5 mm (20 mils) (2) defined: no
-- 1.5 mm (59 mils) (20) defined: no
+- 1.5 mm (59 mils) (10) defined: no
 
 Defined vias:
 
@@ -84,7 +84,7 @@ Defined vias:
 
 Used vias:
 
-- 0.75/0.4 mm (30/16 mils) (Count: 216, Aspect: 2.1 A) defined: yes
+- 0.75/0.4 mm (30/16 mils) (Count: 243, Aspect: 2.1 A) defined: yes
 - 1.0/0.6 mm (39/24 mils) (Count: 6, Aspect: 1.6 A) defined: no
 
 Holes (excluding vias):

@@ -3,7 +3,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C2","100uF/6V3","C_1210_3225Metric",89.2200,4.9400,-90.0000,bottom
 "C3","100nF/16V","C_0805_2012Metric",67.9000,80.1000,180.0000,bottom
 "C4","100nF/16V","C_0805_2012Metric",2.5400,85.7370,-90.0000,bottom
-"D1","M4","D_SMA",85.4200,4.7400,-90.0000,bottom
+"D1","M4","D_SMA",85.3200,6.2900,-90.0000,bottom
 "P1","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",34.9250,61.9760,180.0000,bottom
 "P2","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",78.1050,61.9760,180.0000,bottom
 "P3","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",34.9250,16.7640,180.0000,bottom
@@ -12,4 +12,4 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "P6","SAS_mini_1888174-6","SAS-mini_TEConnectivity_1888174_Vertical",12.0650,76.3600,0.0000,bottom
 "R1","100","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",67.8815,81.7880,180.0000,bottom
 "R2","100","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",4.0640,85.8640,-90.0000,bottom
-"R3","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",43.0200,8.7400,180.0000,bottom
+"R3","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",37.5700,9.2900,180.0000,bottom
