@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/MPPB01B.kicad_sch</source>
-    <date>Mon May 16 10:28:55 2022</date>
+    <date>Mon May 16 11:00:53 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -117,7 +117,11 @@
     <comp ref="C1">
       <value>100nF/16V</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="C_Small-device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -126,7 +130,11 @@
     <comp ref="C2">
       <value>100uF/6V3</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b80</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="C_Small-device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b80"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -135,7 +143,11 @@
     <comp ref="C3">
       <value>100nF/16V</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="C_Small-device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -144,7 +156,11 @@
     <comp ref="C4">
       <value>100nF/16V</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="C_Small-device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -153,7 +169,11 @@
     <comp ref="D1">
       <value>M4</value>
       <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="D_Small-device" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -162,7 +182,11 @@
     <comp ref="P5">
       <value>SAS_mini_1888174-6</value>
       <footprint>Mlab_CON:SAS-mini_TEConnectivity_1888174_Vertical</footprint>
+      <fields>
+        <field name="UST_ID">624ede60592c2d62176d5a96</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="SAS_mini_1888174-MLAB_CONNECTORS" description=""/>
+      <property name="UST_ID" value="624ede60592c2d62176d5a96"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -180,7 +204,11 @@
     <comp ref="P10">
       <value>SATA7-67491-1030</value>
       <footprint>Mlab_CON:SATA-7_THT_VERT_2</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a7b</field>
+      </fields>
       <libsource lib="MLAB_CONNECTORS" part="SATA7-67491-1030" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -189,7 +217,11 @@
     <comp ref="R1">
       <value>100</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="R-device" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -198,7 +230,11 @@
     <comp ref="R2">
       <value>100</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="R-device" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -207,7 +243,11 @@
     <comp ref="SW1">
       <value>Prepinac</value>
       <footprint>Mlab_SW:SW_PUSH_SMALL</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8ad1</field>
+      </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="UST_ID" value="5c70984712875079b91f8ad1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MPPB01B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -298,7 +338,11 @@
     <comp ref="R3">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
       <libsource lib="paracard-template-rescue" part="R-device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value="POWER"/>
       <property name="Sheetfile" value="paracard-power.kicad_sch"/>
       <sheetpath names="/POWER/" tstamps="/00000000-0000-0000-0000-0000538682e8/"/>
