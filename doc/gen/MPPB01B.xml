@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/MPPB01B.kicad_sch</source>
-    <date>Sat May 21 21:02:26 2022</date>
+    <date>Wed May 25 15:48:18 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -260,10 +260,12 @@
       <fields>
         <field name="MFRPN">BTH-030-01-F-D-A</field>
         <field name="Manufacturer">Samtec</field>
+        <field name="UST_ID">628e4f00243ef5997b12f43c</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="CONN_SAMTEC_BTH_030" description=""/>
       <property name="MFRPN" value="BTH-030-01-F-D-A"/>
       <property name="Manufacturer" value="Samtec"/>
+      <property name="UST_ID" value="628e4f00243ef5997b12f43c"/>
       <property name="Sheetname" value="SOUTH"/>
       <property name="Sheetfile" value="paracard-elink.kicad_sch"/>
       <sheetpath names="/SOUTH/" tstamps="/00000000-0000-0000-0000-0000538e9511/"/>
@@ -276,10 +278,12 @@
       <fields>
         <field name="MFRPN">BTH-030-01-F-D-A</field>
         <field name="Manufacturer">Samtec</field>
+        <field name="UST_ID">628e4f00243ef5997b12f43c</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="CONN_SAMTEC_BTH_030" description=""/>
       <property name="MFRPN" value="BTH-030-01-F-D-A"/>
       <property name="Manufacturer" value="Samtec"/>
+      <property name="UST_ID" value="628e4f00243ef5997b12f43c"/>
       <property name="Sheetname" value="NORTH"/>
       <property name="Sheetfile" value="paracard-elink.kicad_sch"/>
       <sheetpath names="/NORTH/" tstamps="/00000000-0000-0000-0000-00005386858e/"/>
@@ -292,10 +296,12 @@
       <fields>
         <field name="MFRPN">BTH-030-01-F-D-A</field>
         <field name="Manufacturer">Samtec</field>
+        <field name="UST_ID">628e4f00243ef5997b12f43c</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="CONN_SAMTEC_BTH_030" description=""/>
       <property name="MFRPN" value="BTH-030-01-F-D-A"/>
       <property name="Manufacturer" value="Samtec"/>
+      <property name="UST_ID" value="628e4f00243ef5997b12f43c"/>
       <property name="Sheetname" value="GPIO"/>
       <property name="Sheetfile" value="paracard-gpio.kicad_sch"/>
       <sheetpath names="/GPIO/" tstamps="/00000000-0000-0000-0000-000053860b1e/"/>
@@ -308,10 +314,12 @@
       <fields>
         <field name="MFRPN">BTH-030-01-F-D-A</field>
         <field name="Manufacturer">Samtec</field>
+        <field name="UST_ID">628e4f00243ef5997b12f43c</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="CONN_SAMTEC_BTH_030" description=""/>
       <property name="MFRPN" value="BTH-030-01-F-D-A"/>
       <property name="Manufacturer" value="Samtec"/>
+      <property name="UST_ID" value="628e4f00243ef5997b12f43c"/>
       <property name="Sheetname" value="POWER"/>
       <property name="Sheetfile" value="paracard-power.kicad_sch"/>
       <sheetpath names="/POWER/" tstamps="/00000000-0000-0000-0000-0000538682e8/"/>
