@@ -1,0 +1,26 @@
+description: 'Mechanical parallella peripheral board '
+github_branch: MPPB01B
+github_branches:
+- MPPB01A
+- MPPB01B
+github_repo: MPPB01
+github_url: https://github.com/mlab-modules/MPPB01
+homepage: false
+image: doc/gen/img/MPPB01B-top.png
+images:
+- doc/gen/img/MPPB01B-top.png
+- doc/gen/img/MPPB01B-bottom.png
+- doc/src/img/MPPB01A_PCB_top.png
+- doc/src/img/MPPB01A_PCB.png
+- doc/src/img/MPPB01A_top.png
+- doc/gen/MPPB01B-POWER.svg
+- doc/gen/MPPB01B-GPIO.svg
+- doc/gen/MPPB01B-MountingHoles.svg
+- doc/gen/MPPB01B-SOUTH.svg
+- doc/gen/MPPB01B-schematic.svg
+- doc/gen/MPPB01B-NORTH.svg
+issues: 2
+mark: 50
+mod_scheme: doc/parallella_schematic.pdf
+tags: []
+title: MPPB01
