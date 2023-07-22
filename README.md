@@ -2,7 +2,7 @@
 
 Elecromechanical interface to [Parallella board](https://parallella.org/). The module is especially useful for connection of [multi-channel](https://github.com/mlab-modules/ADCoctoSPI01) or [high-speed ADCs](https://www.mlab.cz/module/ADCdual01A). 
 
-![MPPB01B](doc/gen/img/MPPB01B-bottom.png)
+![MPPB01B](doc/gen/img/MPPB01-bottom.png)
 ![MPPB01A Mechanical Parallella peripheral board ](doc/src/img/MPPB01A_top.png)
 
 ## Parameters
