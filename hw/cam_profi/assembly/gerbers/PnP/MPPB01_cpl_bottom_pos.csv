@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","100nF/16V","C_0805_2012Metric",89.2200,9.2400,90.0000,bottom
+"C2","100uF/6V3","C_1210_3225Metric",89.2200,4.9400,-90.0000,bottom
+"C3","100nF/16V","C_0805_2012Metric",68.1975,79.9700,180.0000,bottom
+"C4","100nF/16V","C_0805_2012Metric",2.2400,85.9725,-90.0000,bottom
+"D1","M4","D_SMA",85.3200,6.2900,-90.0000,bottom
+"MH5","HOLE","MountingHole_3mm",5.0800,96.5200,180.0000,bottom
+"MH6","HOLE","MountingHole_3mm",96.5200,96.5200,180.0000,bottom
+"MH7","HOLE","MountingHole_3mm",96.7740,5.0800,180.0000,bottom
+"MH8","HOLE","MountingHole_3mm",5.0800,5.0800,180.0000,bottom
+"P1","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",34.9250,61.9760,180.0000,bottom
+"P2","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",78.1050,61.9760,180.0000,bottom
+"P3","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",34.9250,16.7640,180.0000,bottom
+"P4","BTH-030-01-F-D-A","SAMTEC-BTH-030-01-X-D-A",78.1050,16.7640,180.0000,bottom
+"P5","SAS_mini_1888174-6","SAS-mini_TEConnectivity_1888174_Vertical",56.5150,76.3600,0.0000,bottom
+"P6","SAS_mini_1888174-6","SAS-mini_TEConnectivity_1888174_Vertical",12.0650,76.3600,0.0000,bottom
+"P9","HEADER_2x03_PARALLEL","Straight_2x03",78.0200,5.0400,-90.0000,bottom
+"P10","SATA7-67491-1030","SATA-7_THT_VERT_2",82.6770,83.0580,0.0000,bottom
+"P11","HEADER_2x05_PARALLEL","Straight_2x05",64.8200,5.0400,90.0000,bottom
+"R1","100","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",68.3700,81.9400,180.0000,bottom
+"R2","100","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",4.2300,86.1400,-90.0000,bottom
+"R3","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",37.5700,9.2900,180.0000,bottom
+"SW1","Prepinac","SW_PUSH_SMALL",6.8580,15.2400,-90.0000,bottom

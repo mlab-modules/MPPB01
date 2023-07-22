@@ -1,0 +1,14 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,ust_id,mfrpn,manufacturer
+1,,C_Small-device,C1C3C4,100nF/16V,C_0805_2012Metric,3,,5c70984712875079b91f8b4c,,
+2,,C_Small-device,C2,100uF/6V3,C_1210_3225Metric,1,,5c70984712875079b91f8b80,,
+3,,D_Small-device,D1,M4,D_SMA,1,,5c70984512875079b91f88ac,,
+4,,MTG_PTH_125_SQ,MH1MH2MH3MH4,MTG\PTH\125\SQ,MTG_PTH_125_SQ,4,,,,
+5,,CONN_SAMTEC_BTH_030,P1P2P3P4,BTH-030-01-F-D-A,SAMTEC-BTH-030-01-X-D-A,4,https://cz.mouser.com/datasheet/2/527/bth-2498158.pdf,628e4f00243ef5997b12f43c,BTH-030-01-F-D-A,Samtec
+6,"2x03 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x03_PARALLEL,P9,HEADER_2x03_PARALLEL,Straight_2x03,1,,,,
+7,"2x05 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x05_PARALLEL,P11,HEADER_2x05_PARALLEL,Straight_2x05,1,,,,
+8,2x13 2.54 mm pitch header,HEADER_2x13,P7,HEADER_2x13,Straight_2x13,1,,,,
+9,,SAS_mini_1888174-MLAB_CONNECTORS,P5P6,SAS_mini_1888174-6,SAS-mini_TEConnectivity_1888174_Vertical,2,,624ede60592c2d62176d5a96,,
+10,,SATA7-67491-1030,P10,SATA7-67491-1030,SATA-7_THT_VERT_2,1,,5c70984712875079b91f8a7b,,
+11,,R-device,R1R2,100,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,,5c70984512875079b91f8977,,
+12,,R-device,R3,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,5c70984612875079b91f899f,,
+13,"Push button switch, generic, two pins",SW_Push,SW1,Prepinac,SW_PUSH_SMALL,1,~,5c70984712875079b91f8ad1,,
