@@ -30,7 +30,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -48,7 +47,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -66,7 +64,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -90,7 +87,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -143,7 +139,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -167,7 +162,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -196,7 +190,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7        
@@ -225,7 +218,6 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: recursive
-          token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
       - uses: INTI-CMNB/KiBot@v2_dk7
@@ -264,7 +256,6 @@ jobs:
     - uses: actions/checkout@v3
       with:
         ref: ${{ github.head_ref }}
-        token: ${{ secrets.pat }}
 
     - run: |
         git pull --force --rebase || true
