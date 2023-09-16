@@ -27,6 +27,7 @@ issues: 2
 mark: 50
 mod_ibom: hw/cam_profi/MPPB01-ibom.html
 mod_scheme: doc/parallella_schematic.pdf
+status: 0
 tags:
 - mlab
 - mlab-module
